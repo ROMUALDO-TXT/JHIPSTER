@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "teste",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "TestePIC",
+    "packageName": "teste",
+    "packageFolder": "teste",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "YTMxNjViYjZmODlkZTJiZWEwMWRiMDQ2YTkyZjk5M2NiZjJjMTAyZmZlYjEwYTEzMDdmNDUxNWI2ZjA5MGU3ZDA3NWMzYTk3NzEyYTk4ZDM1OTY4ZDZjYTk5OGE2ZmI2OGJkOTI1OWJkODBhMTMyNmU0NjNlMTU5YmJkMWJmYzA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1594852421854,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": ["pt-br", "en"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
